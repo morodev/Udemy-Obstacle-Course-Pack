@@ -299,6 +299,23 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1209150637 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2017713753852439638, guid: 793f7900d94e4494587254a9ecab555f, type: 3}
+  m_PrefabInstance: {fileID: 4870150238417683982}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1209150638
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1209150637}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c80f4624906992e4293d2dd4dde72637, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1621249027
 GameObject:
   m_ObjectHideFlags: 0
@@ -404,7 +421,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2017713753852439638, guid: 793f7900d94e4494587254a9ecab555f, type: 3}
       propertyPath: m_Name
-      value: Player
+      value: Player (Cris)
       objectReference: {fileID: 0}
     - target: {fileID: 4666496786903529838, guid: 793f7900d94e4494587254a9ecab555f, type: 3}
       propertyPath: m_RootOrder
@@ -412,15 +429,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4666496786903529838, guid: 793f7900d94e4494587254a9ecab555f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -129.95937
+      value: -115.5192
       objectReference: {fileID: 0}
     - target: {fileID: 4666496786903529838, guid: 793f7900d94e4494587254a9ecab555f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.27
+      value: 3.36
       objectReference: {fileID: 0}
     - target: {fileID: 4666496786903529838, guid: 793f7900d94e4494587254a9ecab555f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 227.62129
+      value: -153
       objectReference: {fileID: 0}
     - target: {fileID: 4666496786903529838, guid: 793f7900d94e4494587254a9ecab555f, type: 3}
       propertyPath: m_LocalRotation.w
