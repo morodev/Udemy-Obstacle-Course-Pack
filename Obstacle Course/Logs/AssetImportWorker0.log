@@ -250,3 +250,28 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 4113.065707 seconds.
+  path: Assets/Ground Material.mat
+  artifactKey: Guid(ff4b8f189a97d174490595c75695e8d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ground Material.mat using Guid(ff4b8f189a97d174490595c75695e8d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '616a4bed83c56c809ca31b00fb14f898') in 0.214923 seconds 
+  Import took 0.268523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Player Material.mat
+  artifactKey: Guid(11ff686eb8ec0da4293d49fb391ef281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player Material.mat using Guid(11ff686eb8ec0da4293d49fb391ef281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a06d7988ada8be7662fffef970e7ad72') in 0.017096 seconds 
+  Import took 0.020122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Walls.mat
+  artifactKey: Guid(7c78e789c4fdc554292600745fc0b5d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Walls.mat using Guid(7c78e789c4fdc554292600745fc0b5d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e2767317390bb5934559663cdc5f5b4') in 0.015144 seconds 
+  Import took 0.018145 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
