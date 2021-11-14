@@ -5,7 +5,7 @@ using UnityEngine;
 public class Spinner : MonoBehaviour
 {
     [SerializeField] float xAngle = 0f;
-    [SerializeField] float yAngle = 1f;
+    [SerializeField] float yAngle = 1.0f;
     [SerializeField] float zAngle = 0f;
 
     // Start is called before the first frame update
